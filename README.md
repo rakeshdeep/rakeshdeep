@@ -9,9 +9,9 @@ I'm a Web Developer + Designer 💻
 ### 🤝 Connect with me:
 
 💼 **LinkedIn**: <a title="Rakesh Deep | LinkedIn" href="#" target="_blank">Rakesh Deep</a><br/>
-🐈‍⬛ **GitHub**: <a title="Rakesh Deep | GitHub" href="https://github.com/rakeshdeep/" target="_blank">Rakesh Deep</a><br/>
+🐈‍ **GitHub**: <a title="Rakesh Deep | GitHub" href="https://github.com/rakeshdeep/" target="_blank">Rakesh Deep</a><br/>
 📩 **E-mail**: <a title="rakeshdeep106@gmail.com" href="mailto:rakeshdeep106@gmail.com" target="_blank">rakeshdeep106@gmail.com</a><br/>
-**Instagram** : <a title = "Instgram | rakeshdeepp" href="https://www.instagram.com/rakeshdeepp/" target="_blank">@rakeshdeepp </a> <br /><br />
+📷 **Instagram** : <a title = "Instgram | rakeshdeepp" href="https://www.instagram.com/rakeshdeepp/" target="_blank">@rakeshdeepp </a> <br /><br />
 
 ### 💼 Technical Skills
 
@@ -25,10 +25,9 @@ I'm a Web Developer + Designer 💻
 <a href="#!">![React-js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
 
 
-
-### ☁️ Database
+### ☁️ Database 
 <a href="#!">![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)</a>
-<a href="#!">![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a>
+
 
 
 ### 🎨 Design
@@ -40,8 +39,21 @@ I'm a Web Developer + Designer 💻
 ### ✍️ Text Formatting
 <a href="#!">![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)</a>
 
+
+### (Programming & Query ) Languages 👨🏻‍💻
+
+<a href="#!">![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
+<a href="#!">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
+<a href="#!">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
+<a href="#!" style="padding:3px 20px; background:white; font-weight:900; text-decoration:none">SQL</a>
+
+
+### 📝 Learnig....
+<a href="#!">![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)</a>
+<a href="#!">![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a>
+<a href="#!">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <br/>
 
 ### 🎈 My favorite sentence
 
-"Great things never come from comfort zones"
+" Man on Mission 🚀 - to live the best life possible come what may. 👨🏻‍💻"
