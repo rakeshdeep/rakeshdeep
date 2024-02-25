@@ -45,7 +45,7 @@ I'm a Web Developer + Designer 💻
 <a href="#!">![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="#!">![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="#!">![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)</a>
-<a href="#!" style="padding:3px 20px; background:white; font-weight:900; text-decoration:none">SQL</a>
+<a href="#!" style="padding:3px 20px; background:purple;color:white; font-weight:900; text-decoration:none">SQL</a>
 
 
 ### 📝 Learnig....
