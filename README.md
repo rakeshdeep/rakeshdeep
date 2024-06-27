@@ -48,11 +48,7 @@ I'm a Web Developer + Designer 💻
 <a href="#!" style="padding:3px 20px; background:purple;color:white; font-weight:900; text-decoration:none">SQL</a>
 
 
-### 📝 Learnig....
-<a href="#!">![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)</a>
-<a href="#!">![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a>
-<a href="#!">![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-<br/>
+
 
 ### 🎈 My favorite sentence
 
