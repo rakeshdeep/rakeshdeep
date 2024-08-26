@@ -2,6 +2,6 @@
 
 - 👀 I’m passionate about the mysteries of web creation and always open to exploring new ideas 💡 and experiments beyond boundaries. 
 - 📚 I’m currently learning ReactJS.
-- 📬 [Get in Touch.](mailto:rakeshhdeep.com)
+- 📬 [Get in Touch.](mailto:rakeshhdeep@gmail.com)
 
 <!--github profile readme-->
